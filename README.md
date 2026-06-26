@@ -32,9 +32,9 @@ I enjoy building scalable applications, solving coding challenges, and sharing k
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=imthiyazhusaina&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imthiyazhusaina&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -44,7 +44,7 @@ I enjoy building scalable applications, solving coding challenges, and sharing k
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imthiyazhusaina&theme=tokyonight"/>
 
 </p>
 
@@ -54,7 +54,7 @@ I enjoy building scalable applications, solving coding challenges, and sharing k
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imthiyazhusaina&theme=tokyo-night"/>
 
 </p>
 
@@ -64,7 +64,7 @@ I enjoy building scalable applications, solving coding challenges, and sharing k
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=imthiyazhusaina&theme=algolia&margin-w=15"/>
 
 </p>
 
@@ -74,15 +74,15 @@ I enjoy building scalable applications, solving coding challenges, and sharing k
 
 <p align="left">
 
-<a href="https://leetcode.com/YOUR_USERNAME">
+<a href="https://leetcode.com/imthiyazhusaina">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://www.hackerrank.com/YOUR_USERNAME">
+<a href="https://www.hackerrank.com/imthiyazhusaina">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/imthiyazhusaina">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
@@ -92,11 +92,11 @@ I enjoy building scalable applications, solving coding challenges, and sharing k
 
 ## 🌐 Connect with Me
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/imthiyaz-husain/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:imthiyazhusaina@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -104,7 +104,7 @@ I enjoy building scalable applications, solving coding challenges, and sharing k
 
 ## 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=imthiyazhusaina&color=blueviolet)
 
 ---
 
@@ -122,10 +122,17 @@ I enjoy building scalable applications, solving coding challenges, and sharing k
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/imthiyazhusaina/imthiyazhusaina/output/github-contribution-grid-snake.svg">
 </p>
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=0e75b6&style=flat)
+![](https://komarev.com/ghpvc/?username=imthiyazhusaina&label=Visitors&color=0e75b6&style=flat)
 
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,linux,docker,maven,html,css,js,vscode,eclipse,idea"/>
 
+<p align="center">
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="800"/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/imthiyazhusaina/imthiyazhusaina/output/github-contribution-grid-snake-dark.svg"/>
+</p>
