@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋, I'm Imthiyaz Husain</h1>
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">       
 <h3 align="left">🚀 About Me</h3>
-A Software Engineer with a passion for Java development and problem solving.
+Software Engineer with a passion for Java development and problem solving.
 Specialize in:
 
 - ☕ Java & Object-Oriented Programming
