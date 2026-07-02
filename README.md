@@ -20,10 +20,10 @@ Specialize in:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=imthiyazhusaina&theme=tokyo-night"/>
 </p>
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=imthiyazhusaina&theme=algolia&margin-w=15"/>
-</p>
+</p>-->
 
 ## 💻 Coding Profiles
 <p align="left">
